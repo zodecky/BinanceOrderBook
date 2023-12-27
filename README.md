@@ -24,3 +24,6 @@ dotnet add package Newtonsoft.Json
 ```bash
 dotnet run
 ```
+## Development Environment
+
+This project was developed using Visual Studio Code with the default C# extensions, but any code editor or IDE that supports .NET Core development can be used.
