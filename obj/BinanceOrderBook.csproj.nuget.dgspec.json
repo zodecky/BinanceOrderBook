@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/gabrielzagury/Desktop/Programação/prova_murano/high_fqc_trading/BinanceOrderBook/BinanceOrderBook.csproj": {}
+  },
+  "projects": {
+    "/Users/gabrielzagury/Desktop/Programação/prova_murano/high_fqc_trading/BinanceOrderBook/BinanceOrderBook.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/gabrielzagury/Desktop/Programação/prova_murano/high_fqc_trading/BinanceOrderBook/BinanceOrderBook.csproj",
+        "projectName": "BinanceOrderBook",
+        "projectPath": "/Users/gabrielzagury/Desktop/Programação/prova_murano/high_fqc_trading/BinanceOrderBook/BinanceOrderBook.csproj",
+        "packagesPath": "/Users/gabrielzagury/.nuget/packages/",
+        "outputPath": "/Users/gabrielzagury/Desktop/Programação/prova_murano/high_fqc_trading/BinanceOrderBook/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/gabrielzagury/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "WebSocket4Net": {
+              "target": "Package",
+              "version": "[0.15.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
