@@ -1,6 +1,8 @@
-# Binance Order Book
+# Binance Order Book (requires internet connection)
 
 This project connects to the Binance API, retrieves an initial snapshot of the order book for the BNBBTC trading pair, and then continuously updates that order book in real time based on the stream of updates received over the WebSocket connection.
+
+It prints the order book to the console
 
 ## Prerequisites
 
